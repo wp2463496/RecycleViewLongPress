@@ -1,0 +1,2 @@
+RecycleView+任意头布局+拖拽换位+拖拽删除demo 
+邮箱：xiaowangboke@vip.qq.com 互相学习！
